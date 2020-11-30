@@ -9,3 +9,14 @@ C:\demo\DatingApp.API\obj\Debug\netcoreapp2.0\DatingApp.API.AssemblyInfoInputs.c
 C:\demo\DatingApp.API\obj\Debug\netcoreapp2.0\DatingApp.API.AssemblyInfo.cs
 C:\demo\DatingApp.API\obj\Debug\netcoreapp2.0\DatingApp.API.dll
 C:\demo\DatingApp.API\obj\Debug\netcoreapp2.0\DatingApp.API.pdb
+C:\Users\Willism\git\angular-asnetcore\DatingApp.API\bin\Debug\netcoreapp2.0\DatingApp.API.deps.json
+C:\Users\Willism\git\angular-asnetcore\DatingApp.API\bin\Debug\netcoreapp2.0\DatingApp.API.runtimeconfig.json
+C:\Users\Willism\git\angular-asnetcore\DatingApp.API\bin\Debug\netcoreapp2.0\DatingApp.API.runtimeconfig.dev.json
+C:\Users\Willism\git\angular-asnetcore\DatingApp.API\bin\Debug\netcoreapp2.0\DatingApp.API.dll
+C:\Users\Willism\git\angular-asnetcore\DatingApp.API\bin\Debug\netcoreapp2.0\DatingApp.API.pdb
+C:\Users\Willism\git\angular-asnetcore\DatingApp.API\obj\Debug\netcoreapp2.0\DatingApp.API.csprojResolveAssemblyReference.cache
+C:\Users\Willism\git\angular-asnetcore\DatingApp.API\obj\Debug\netcoreapp2.0\DatingApp.API.csproj.CoreCompileInputs.cache
+C:\Users\Willism\git\angular-asnetcore\DatingApp.API\obj\Debug\netcoreapp2.0\DatingApp.API.AssemblyInfoInputs.cache
+C:\Users\Willism\git\angular-asnetcore\DatingApp.API\obj\Debug\netcoreapp2.0\DatingApp.API.AssemblyInfo.cs
+C:\Users\Willism\git\angular-asnetcore\DatingApp.API\obj\Debug\netcoreapp2.0\DatingApp.API.dll
+C:\Users\Willism\git\angular-asnetcore\DatingApp.API\obj\Debug\netcoreapp2.0\DatingApp.API.pdb

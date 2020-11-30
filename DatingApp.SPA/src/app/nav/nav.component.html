@@ -21,7 +21,7 @@
                     <a [routerLink]="['/messages']">Messages</a>
                 </li>
           </ul>
-      <form *ngIf="!loggedIn()" #loginForm="ngForm" class="navbar-form navbar-right" (ngSubmit)="login()">
+      <form  #loginForm="ngForm" class="navbar-form navbar-right" (ngSubmit)="login()">
           <div class="form-group">
           <input type="text" placeholder="Username" class="form-control" required name="username" [(ngModel)]="model.username">
           </div>

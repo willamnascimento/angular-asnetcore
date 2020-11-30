@@ -4786,10 +4786,11 @@
   },
   "libraries": {
     "AutoMapper/6.1.1": {
-      "sha512": "A+6PAblvzmkXPS20nFBQJvlNSW5oEdyfN5+cxT/Du35fTNyuP5pNDXT64KT/jBgxt7CPduOM0Y7oLnNe0E5IXg==",
+      "sha512": "/5Jj0SwQlvBTThslWFLgaZH4S3mCymOjZZBfEvaM2s4VF3Q4KiJSzJrMRRS8h7nt6I99q8OaZgWg+7WQdACL+A==",
       "type": "package",
       "path": "automapper/6.1.1",
       "files": [
+        ".signature.p7s",
         "automapper.6.1.1.nupkg.sha512",
         "automapper.nuspec",
         "lib/net45/AutoMapper.dll",
@@ -4801,20 +4802,22 @@
       ]
     },
     "AutoMapper.Extensions.Microsoft.DependencyInjection/3.1.0": {
-      "sha512": "IWvYn9BMBrIL7bRfDBhkmEtYmTlbxjPDGfhgOEJFI3vvdctfn+wgtZNDu1NhZvc63dB+m7XIf1HxCm1SsNMizA==",
+      "sha512": "vTl7F5+7MurXjBiSCojfsepwPIfoNQSmT2SqGi/4qPBx+fRajVj+V8rN2mk3Hz9ASs2Ui63vgpAWo0dGrzW9UQ==",
       "type": "package",
       "path": "automapper.extensions.microsoft.dependencyinjection/3.1.0",
       "files": [
+        ".signature.p7s",
         "automapper.extensions.microsoft.dependencyinjection.3.1.0.nupkg.sha512",
         "automapper.extensions.microsoft.dependencyinjection.nuspec",
         "lib/netstandard2.0/AutoMapper.Extensions.Microsoft.DependencyInjection.dll"
       ]
     },
     "CloudinaryDotNet/1.1.0-rc1": {
-      "sha512": "722b1srUjTI+6OI6WqGcHVsvZofnggNfqhts3WYWd0BhL1YMVbH5tvhoUDQAitZZW5HhpaQquzWOBYMhWRl+cw==",
+      "sha512": "IFAnvF3XA4gjLfgR3kSUmkkJZpAizWP+6hS7tmmkTZFlzrvm01hRfAjThloavj6OBHCHQomhrC4zWzLmn3drgw==",
       "type": "package",
       "path": "cloudinarydotnet/1.1.0-rc1",
       "files": [
+        ".signature.p7s",
         "cloudinarydotnet.1.1.0-rc1.nupkg.sha512",
         "cloudinarydotnet.nuspec",
         "lib/net/net40/Cloudinary.dll",
@@ -4904,10 +4907,11 @@
       ]
     },
     "Microsoft.AspNetCore.All/2.0.7": {
-      "sha512": "hpWBRgs094P0jBWJRqBV+8oXl6G+O5ixDAgXI5qouOsg2jlLOmYr1+95+lRbLSn31HhKbQdNel6VQSDUbm0juw==",
+      "sha512": "VGAfrYw9+ukMSVcwGWWYlu6Xgx6WM9mIElzHRfde2icbcS74iQqYZTHjuzp9uaaceoXihyTHRiYQGJNH6c0F5g==",
       "type": "package",
       "path": "microsoft.aspnetcore.all/2.0.7",
       "files": [
+        ".signature.p7s",
         "build/PublishWithAspNetCoreTargetManifest.targets",
         "build/aspnetcore-store-2.0.0-common.xml",
         "build/aspnetcore-store-2.0.0-linux-x64.xml",
@@ -7598,10 +7602,11 @@
       ]
     },
     "Newtonsoft.Json/10.0.3": {
-      "sha512": "hSXaFmh7hNCuEoC4XNY5DrRkLDzYHqPx/Ik23R4J86Z7PE/Y6YidhG602dFVdLBRSdG6xp9NabH3dXpcoxWvww==",
+      "sha512": "MoATFm6YJyk5OdqDdxDWfKe5dkY3Cygu0wrpKPH/LbWtMmSuD/3G/JIInt9sIJN7hKQOFYCIb2UjLc2vO5byQQ==",
       "type": "package",
       "path": "newtonsoft.json/10.0.3",
       "files": [
+        ".signature.p7s",
         "LICENSE.md",
         "lib/net20/Newtonsoft.Json.dll",
         "lib/net20/Newtonsoft.Json.xml",
@@ -9674,10 +9679,11 @@
       ]
     },
     "System.Linq.Queryable/4.3.0": {
-      "sha512": "In1Bmmvl/j52yPu3xgakQSI0YIckPUr870w4K5+Lak3JCCa8hl+my65lABOuKfYs4ugmZy25ScFerC4nz8+b6g==",
+      "sha512": "wdbQgzMijyDkBQySuqYnDcK/V70V6KIUUQdXpkXShHbgQRn0bn9wY3ar0VnsDwCcwu8ig6XBrpC2EU2xK+TuQg==",
       "type": "package",
       "path": "system.linq.queryable/4.3.0",
       "files": [
+        ".signature.p7s",
         "ThirdPartyNotices.txt",
         "dotnet_library_license.txt",
         "lib/monoandroid10/_._",
@@ -12615,27 +12621,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\william.nascimento\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\": {},
+    "C:\\Users\\Willism\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\demo\\DatingApp.API\\DatingApp.API.csproj",
+      "projectUniqueName": "C:\\Users\\Willism\\git\\angular-asnetcore\\DatingApp.API\\DatingApp.API.csproj",
       "projectName": "DatingApp.API",
-      "projectPath": "C:\\demo\\DatingApp.API\\DatingApp.API.csproj",
-      "packagesPath": "C:\\Users\\william.nascimento\\.nuget\\packages\\",
-      "outputPath": "C:\\demo\\DatingApp.API\\obj\\",
+      "projectPath": "C:\\Users\\Willism\\git\\angular-asnetcore\\DatingApp.API\\DatingApp.API.csproj",
+      "packagesPath": "C:\\Users\\Willism\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Willism\\git\\angular-asnetcore\\DatingApp.API\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\",
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\william.nascimento\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.Fallback.config"
+        "C:\\Users\\Willism\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.0"

@@ -26,6 +26,7 @@ export class AuthService {
     }
 
     login(model: any) {
+        
         return this.http.post(this.baseUrl + 'login', model, this.requestOptions()).map((response: Response) => {
             const user = response.json();
             if (user) {
@@ -48,7 +49,7 @@ export class AuthService {
     }
 
     loggedIn() {
-        return tokenNotExpired('token');
+        return true;
     }
 
     private requestOptions() {
